@@ -1,0 +1,9 @@
+# ============================================================
+# Project  : Secured Network Infrastructure & Server Monitoring Lab
+# Service  : OpenSSH Server
+# Platform : Debian 12
+# Modified Parameter: PermitRootLogin
+# ============================================================
+
+PermitRootLogin yes
+

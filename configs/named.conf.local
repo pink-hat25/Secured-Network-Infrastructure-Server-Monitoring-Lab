@@ -1,0 +1,15 @@
+// ============================================================
+// Project : Secured Network Infrastructure & Server Monitoring Lab
+// Service : BIND9
+// File    : named.conf.local
+// ============================================================
+
+zone "lab-smk.xyz" {
+    type master;
+    file "/etc/bind/db.lab-smk.xyz";
+};
+
+zone "30.168.192.in-addr.arpa" {
+    type master;
+    file "/etc/bind/db.192.168.30";
+};
