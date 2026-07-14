@@ -1,10 +1,10 @@
 $TTL    604800
-@       IN      SOA     lab-smk.xyz. root.lab-smk.xyz. (
+@       IN      SOA     pnkht-lab.xyz. root.pnkht-lab.xyz. (
                         2026040601 ; Serial
                         604800     ; Refresh
                         86400      ; Retry
                         2419200    ; Expire
                         604800 )   ; Negative Cache TTL
 ;
-@       IN      NS      lab-smk.xyz.
-10      IN      PTR     lab-smk.xyz.
+@       IN      NS      pnkht-lab.xyz.
+10      IN      PTR     pnkht-lab.xyz.
