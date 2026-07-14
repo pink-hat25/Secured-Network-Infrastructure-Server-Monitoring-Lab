@@ -55,8 +55,8 @@ A network infrastructure and server monitoring implementation using MikroTik Rou
 │   │   ├── default-ssl.conf
 │   │   └── index.html
 │       └── snmpd.conf
-└── screenshots
-    └── topology.png
+└── Screenshots
+    └── Topology.png
 ```
 
 ---
