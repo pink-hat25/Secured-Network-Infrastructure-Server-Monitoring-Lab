@@ -4,9 +4,9 @@
 // File    : named.conf.local
 // ============================================================
 
-zone "lab-smk.xyz" {
+zone "pnkht-lab.xyz" {
     type master;
-    file "/etc/bind/db.lab-smk.xyz";
+    file "/etc/bind/db.pnkht-lab.xyz";
 };
 
 zone "30.168.192.in-addr.arpa" {
