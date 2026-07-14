@@ -44,22 +44,16 @@ A network infrastructure and server monitoring implementation using MikroTik Rou
 ```text
 .
 ├── README.md
-├── .gitignore
 ├── configs
-│   ├── mikrotik
 │   │   ├── mikrotik-router.rsc
 │   │   └── mikrotik-switch.rsc
-│   ├── ssh
 │   │   └── sshd_config
-│   ├── bind9
 │   │   ├── named.conf.local
 │   │   ├── db.lab-smk.xyz
 │   │   └── db.192.168.30
-│   ├── apache2
 │   │   ├── 000-default.conf
 │   │   ├── default-ssl.conf
 │   │   └── index.html
-│   └── cacti
 │       └── snmpd.conf
 └── screenshots
     └── topology.png
